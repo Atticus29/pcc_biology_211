@@ -69,4 +69,19 @@ For BI 211, a key ingredient to your success will be attendance. It is your resp
 
 ## Class Times and Locations
 
-
+|Content Type|Room|Day(s)|Time|
+|:---:|:---:|:---:|:---:|
+|Lecture|Bldg. 7 Rm. 109|MW|5:00 PM-6:50 PM|
+|Lab|Bldg. 7 Rm. 125|MW|7:00 PM-9:50 PM|
+|Office Hours|Bldg. 7 Rm. TODO|By appointment|By appointment|
+---
+
+### Grade Ranges
+|Letter Grade|Corresponding Percentage Range|
+|:---:|:---:|
+|A|90-100%|
+|B|80-89%|
+|C|70-79%|
+|D|60-69%|
+|F|<60%|
+---
