@@ -8,21 +8,21 @@
  ---
 
 ## Instructor Information
- 
+
 |Name|Office Location|Email|Emergency Email|
 |:---:|:---:|:---:|:---:|
 |Mark Fisher, PhD.|Bldg. 7 Rm. TODO|mark.fisher3@pcc.edu|mark.aaron.fisher@gmail.com|
 
-Admin. Asst: Susan Lipski, (971)722-7257 susan.lipski@pcc.edu
+Admin. Asst.: Susan Lipski, (971)722-7257 susan.lipski@pcc.edu
 
 ---
 ## Course Info
 
-Includes introduction to science, biochemistry, metabolism, the cell, molecular biology, and reproduction. The first course of a three-course sequence for students majoring in biology and the sciences, including pre-medical, pre-dental, chiropractic, pharmacy, and related fields. 
+Includes introduction to science, biochemistry, metabolism, the cell, molecular biology, and reproduction. The first course of a three-course sequence for students majoring in biology and the sciences, including pre-medical, pre-dental, chiropractic, pharmacy, and related fields.
 
-Recommended: High school biology and chemistry within the past seven years. 
+Recommended: High school biology and chemistry within the past seven years.
 
-Prerequisites: WR 115 and RD 115 or equivalent placement test scores, and MTH 95 or higher. 
+Prerequisites: WR 115 and RD 115 or equivalent placement test scores, and MTH 95 or higher.
 
 Concurrent: CH 151 or higher or instructor permission. Audit available.
 See [Course Content and Outcomes Guide](http://www.pcc.edu/ccog/default.cfm?fa=ccog&subject=BI&course=211).
@@ -55,8 +55,8 @@ For BI 211, a key ingredient to your success will be attendance. It is your resp
 
 ### Strongly Recommended
 
-- Jump drive or cloud storage such as Google Drive 
-- Calendar or day planner. 
+- Jump drive or cloud storage such as Google Drive
+- Calendar or day planner.
 - Many students have found it very useful to keep a set of colored pencils or pens for various uses during lecture and lab class.
 
 
@@ -95,7 +95,7 @@ For BI 211, a key ingredient to your success will be attendance. It is your resp
 |Final Exam|The final exam will have the same format, with questions that ask you to use, remember, and consider all course material, with about 50% emphasis on the final two weeks of the term.  You must take the final exam to pass the class. **You may not drop your final exam score**.  Makeup exams for the final exam will be given only under very extenuating circumstances and only upon prompt notification of the instructor.  It is likely that a makeup final exam will not be same exam taken by the rest of the class. It may be in long-answer or essay format, to be determined at the discretion of the instructor. It is not to your advantage to take a makeup final exam for trivial reasons, but if you are genuinely too ill to take the exam at the scheduled time, let me know as soon as possible. Keep in mind that grades are due soon after the final exam date, so time will be limited.|200 pts.|
 |TODO Biology Study Skills|These assignments are designed to help you learn methods to help you succeed in this class and in future classes.  Please see [here](https://docs.google.com/document/d/1i1d9N6OxcFaSIhcMX2pY9y0dqOKbdLDBZ-U2L0c-PnM/edit?usp=sharing) for more information|TODO pts.|
 |In-class assignments, homework, online assignments, participation (IHOP)|In order to promote active learning and to practice applying what you’re learning, there will be homework and in-class assignments throughout the term.  Many of these will be small group discussion-based critical thinking assignments.  You must be in class to participate and receive credit for in-class assignments. In-class assignments cannot be made up. Homework will also be assigned as needed to promote learning. Late homework policies are described in the “TODO late assignment” section.|TODO pts.|
-|Lab participation 10 @ 6 pts. each||60 pts.|
+|Lab participation 10 @ 6 pts. each|TODO|60 pts.|
 |Lab quizzes 9 @ 10 pts. each||90 pts.|
 |Scientific Research Project: Literature|TODO|10 pts.|
 |Scientific Research Project: Introduction|TODO|10 pts.|
@@ -110,31 +110,37 @@ For BI 211, a key ingredient to your success will be attendance. It is your resp
 
 |Date (Monday)|Week|Topics (M/W)|Text Chapter(s)|Graded items due|
 |:---:|:---:|:---:|:---:|:---:|
-|25 Jun., 2018|1|Course Overview, Intro: Evolution/Chemical Context of Life|1,2||
-|2 Jul., 2018|2| Carbon and the Molecular Diversity of Life/**No lecture or lab on July 4**|3||
-|9 Jul., 2018|3|A Tour of the Cell/**EXAM 1 (Wed)**|4||
-|16 Jul., 2018|4|Membrane Transport and Cell Signaling/An Introduction to Metabolism|5,6||
-|23 Jul., 2018|5|Cellular Respiration and Fermentation/The Cell Cycle|7,9||
-|30 Jul, 2018|6|Meiosis and Sexual Life Cycles/**EXAM 2 (Wed)**|10||
-|6 Aug, 2018|7|Mendel and the Gene Idea/Chromosomal Basis of Inheritance|11,12||
-|13 Aug, 2018|8|Chromosomal Basis of Inheritance (recombination distance video because Mark was sick); Molecular Basis of Inheritance; /**EXAM 3 (Wed) Gene Expression not covered**|12,13||
-|Monday, 20 Aug., 2018, 08:30 AM-10:50 AM|9|**Comprehensive Final Exam**|NA|||
+|24 Sept., 2018|1|Course Overview, Chapter 1: Exploring Life/Chapter 2: Chemical Context of Life TODO growth mindset activity|1,2||
+|1 Oct., 2018|2| Chapter 3: Water/Chapter 4: Carbon|3||
+|8 Oct., 2018|3|Chapter 5: Macromolecules/**Exam 1 Wednesday**|5||
+|15 Oct., 2018|4|Chapter 5: Macromolecules (cont.)/Chapter 6: A tour of the cell|5,6||
+|22 Oct., 2018|5|Chatper 7: Membranes/Chapter 8: Intro. to Metabolism|7,8||
+|29 Oct, 2018|6|**EXAM 2 (Monday)**/Chapter 9: Cellular Respiration|10||
+|5 Nov., 2018|7|Chapter 9: Cellular Respiration (cont.)/Chapter 10: Photosynthesis|9,10||
+|12 Nov., 2018|8|Chapter 11: Cell Communication/Chapter 11: Cell Communication|11||
+|19 Nov., 2018|9|**Exam 3 Monday**/TODO No class Wednesday|12,13||
+|26 Nov., 2018|10|Chapter 12: The cell cycle/Chapter 13: Meiosis|12,13||
+|3 Dec., 2018|11|Chapter 14: Mendel and the gene idea/Chapter 14: Mendel and the gene idea|14||
+|Monday 3 Dec., 2018, 5:00 PM - 6:50 PM|10|**Comprehensive Final Exam**|NA|||
 
 ### Lab
 
 Please note that the order of the labs doesn't necessarily follow the order of their occurrence in the lab manual!
 
-|Date (Monday)|Week|Topics (M/W)|Graded items due|
-|:---:|:---:|:---:|:---:|
-|25 Jun., 2018|1|Monday-1. Process of Scientific Inquiry, Measurement & Metrics/ Wednesday-2. Microscopes (Ex. 1-3,7, 4 if time)||
-|2 Jul., 2018|2|Monday-2. Microscopes (4-6,7)/ **No lecture or lab on July 4 (skipping lab 3)**|Postlab 1 (on labs 1 and 2 and current week)/ Quiz 1|
-|9 Jul., 2018|3|Monday-4. pH and Buffers (Ex. 1-2)/Wednesday-4. pH and Buffers (Ex. 3)|Postlab 2 (on lab 2 and current week)/ Quiz 2|
-|16 Jul., 2018|4|Monday-5. Enzymes (Ex. 1-2)/Wednesday-5. Enzymes (Ex. 3) |Postlab 3 (on lab 4  and current week)/ Quiz 3 (on lab 4)|
-|23 Jul., 2018|5|Monday-6. Diffusion and Osmosis (Ex.1,2,5)/Wednesday-6. Diffusion and Osmosis (Ex.3 and 4)|Postlab 4 (on lab 5 and current week)/ Quiz 4 (on lab 5)|
-|30 Jul, 2018|6|Monday-7. Fermentation/Respiration (Ex. 1,2)/Wednesday-7. Fermentation/Respiration (Ex. 3,4)|Postlab 5 (on lab 6 and current week)/ Quiz 5 (on lab 6); Skills tests begin|
-|6 Aug, 2018|7|Monday-8. Meiosis and Mitosis (Ex. 1-4)/Wednesday-9. Inheritance|Postlabs 6 (on lab 7 and current week)/ Quiz 6 (on lab 7); Skills tests|
-|13 Aug, 2018|8|Monday-9. Inheritance (cont. from home) (Mark sick)/ Wednesday-10. DNA, Replication, and Gene Expression|Postlab 7 (on labs 8 and 9 and current week)/ Quiz (on labs 8 and 9). Postlabs 8 (on lab 9) and 9 (on lab 10) due in lab|
-|20 Aug, 2018|9|Finals Week|No work accepted during finals week|
+|Date (Monday)|Week|Topics (M/W)|Reading Due|In Class Assignment|Graded items due|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|24 Sept., 2018|1|Safety and Scientific Method Overview & Discussion/TODO Class to library with handout|Lab 1 and Appendix A|||
+|1 Oct., 2018|2| Lactase Case Study in lab (handouts distributed during lab time)|Enzymes TODO|Quiz 1|Library Assignment|
+|8 Oct., 2018|3|Amylase Research Overview and Methods 1) Enzymes 4.3A will be performed in lab to learn the method and gather preliminary info., 2) Literature research ongoing, 3) Experimental planning and pilot or preliminary experiments, and 4) Create final experimental design for next week|All handouts and textbook chapter on enzymes|Quiz 2|1) Lactase Expt. Design, 2) Amylase expt. due at **end** of lab. The amylase design should continue to be examined and improved as needed prior to coming to lab next week|
+|15 Oct., 2018|4|Amylase research experiment (the one you designed!) Note: You literature reveiw may have yielded new info. to improve your design. If so, bring your improved design plan to class and consult with group and with me prior to carrying it out||Quiz 3|Literature Assignment (see handout for details)|
+|22 Oct., 2018|5|Microscopes|2.1-2.3|Quiz 4|Amylase paper introduction|
+|29 Oct, 2018|6|Microscopes (cont.) with 2.5 plus supplemental items to view/Amylase research follow up (come prepared to ask questions/work on graphs, etc.)|2.5|Quiz 5||
+|5 Nov., 2018|7|LEFT OFF HERE Chapter 9: Cellular Respiration (cont.)/Chapter 10: Photosynthesis|9,10|||
+|12 Nov., 2018|8|Chapter 11: Cell Communication/Chapter 11: Cell Communication|11|||
+|19 Nov., 2018|9|**Exam 3 Monday**/TODO No class Wednesday|12,13|||
+|26 Nov., 2018|10|Chapter 12: The cell cycle/Chapter 13: Meiosis|12,13|||
+|3 Dec., 2018|11|Chapter 14: Mendel and the gene idea/Chapter 14: Mendel and the gene idea|14|||
+|Monday 3 Dec., 2018, 5:00 PM - 6:50 PM|10|**Comprehensive Final Exam**|NA||||
 
 ---
 
@@ -155,7 +161,7 @@ TODO
 There will be no extra credit opportunities. This is biology department-wide policy at PCC.
 
 ### Regrade Policy
-If you wish to dispute a grade, we will consider your request up to one full week after the assignment has been returned to you and you have access to solutions. Requests for grade adjustments beyond the one-week deadline will not be considered.Re-grade requests for assignments and exams will be handled online. In order for a re-grade to be considered, you must message me the following:1. Which question you want addressed2. What your answer was (exactly!)3. Detailed justification for point recoveryAny requests that do not include ALL THREE things WILL NOT be reviewed. I use this re-grade policy because sometimes writing about the question helps students realize where the mistake was (this is certainly the case for me when I write about things). This means that after-class re-grade ambushes will be met with frowns.
+If you wish to dispute a grade, we will consider your request up to one full week after the assignment has been returned to you and you have access to solutions. Requests for grade adjustments beyond the one-week deadline will not be considered.Re-grade requests for assignments and exams will be handled online. In order for a re-grade to be considered, you must message me the following:1. Which question you want addressed2. What your answer was (exactly!)3. Detailed justification for point recoveryAny requests that do not include ALL THREE things WILL NOT be reviewed. I use this re-grade policy because sometimes writing about the question helps students realize where the mistake was (this is certainly the case for me when I write about things).This means that after-class re-grade ambushes will be met with frowns.
 
 ---
 ## Additional Logistics
@@ -192,5 +198,3 @@ A student may receive an I for a course if they miss an essential part of the cl
 
 ### Students with Disabilities
  PCC is committed to supporting all students. If you plan to use academic accommodations for this course, you must meet with the instructor privately and in-person to discuss your needs. Accommodations are not retroactive; they can only after you meet with the instructor and the instructor receives the “Approved Academic Accommodations” letter. To request academic accommodations for a disability, please contact a disability services counselor on any PCC campus. Additional information may be located at [www.pcc.edu/resources/disability](www.pcc.edu/resources/disability).
- 
-
