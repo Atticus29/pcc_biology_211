@@ -135,12 +135,12 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 |15 Oct., 2018|4|Amylase research experiment (the one you designed!) Note: You literature reveiw may have yielded new info. to improve your design. If so, bring your improved design plan to class and consult with group and with me prior to carrying it out||Quiz 3|Literature Assignment (see handout for details)|
 |22 Oct., 2018|5|Microscopes|2.1-2.3|Quiz 4|Amylase paper introduction|
 |29 Oct, 2018|6|Microscopes (cont.) with 2.5 plus supplemental items to view/Amylase research follow up (come prepared to ask questions/work on graphs, etc.)|2.5|Quiz 5||
-|5 Nov., 2018|7|LEFT OFF HERE Chapter 9: Cellular Respiration (cont.)/Chapter 10: Photosynthesis|9,10|||
-|12 Nov., 2018|8|Chapter 11: Cell Communication/Chapter 11: Cell Communication|11|||
-|19 Nov., 2018|9|**Exam 3 Monday**/TODO No class Wednesday|12,13|||
-|26 Nov., 2018|10|Chapter 12: The cell cycle/Chapter 13: Meiosis|12,13|||
-|3 Dec., 2018|11|Chapter 14: Mendel and the gene idea/Chapter 14: Mendel and the gene idea|14|||
-|Monday 3 Dec., 2018, 5:00 PM - 6:50 PM|10|**Comprehensive Final Exam**|NA||||
+|5 Nov., 2018|7|Diffusion/Osmosis|3.1-3.3|Quiz 6|Two copies of research paper draft. User only code name on upper right hand and attach blank rubric to each copy.|
+|12 Nov., 2018|8|Respiration 5.1|5 Intro and 5.1|Quiz 7|Peer edits. Be sure to write, "edited by" and your code name on the upper right hand corner|
+|19 Nov., 2018|9|**Thanksgiving no labs**||||
+|26 Nov., 2018|10|Photosynthesis 6.1-6.4|6.1-6.4|Quiz 8|Scientific paper|
+|3 Dec., 2018|11|Mitosis and Meiosis (7.1-7.4) and Genetics Problems (TODO handout)|7.1-7.4, TODO Genetics textbook chapter|Quiz 9|Genetics problems due date will be announced|
+||**Lab does not meet during finals week**||||||
 
 ---
 
