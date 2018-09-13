@@ -46,7 +46,7 @@ For BI 211, a key ingredient to your success will be attendance. It is your resp
 
 - Morgan, Judith and Eloise Carter 2011. **Investigating Biology: A Laboratory Manual for BIOLOGY TODO**, 8th ed. Benjamin/Cummings Publishing, Menlo Park, CA
 
-- Access to a computer, printer, and the internet, including D2L course pages (the course and many assignments will largely be administered via D2L). Several computer labs are available for students at all PCC campuses. (eg. library in Bldg 9, Student Learning Center, Bldg 7, and Resources centers, 1st floor Bldg 7).
+- Access to a computer, printer, and the internet, including D2L course pages (the course and many assignments will largely be administered via D2L). Several computer labs are available for students at all PCC campuses. (eg. library in Bldg 9, Student Learning Center, Bldg. 7, and Resources centers, 1st floor Bldg. 7).
 
 #### Socrative
 
