@@ -132,7 +132,7 @@ For BI 211, a key ingredient to your success will be attendance. It is your resp
 |19 Nov., 2018|9|**Exam 3 Monday**/TODO No class Wednesday|||
 |26 Nov., 2018|10|Chapter 12: The cell cycle/Chapter 13: Meiosis|12,13||
 |3 Dec., 2018|11|Chapter 14: Mendel and the gene idea/Chapter 14: Mendel and the gene idea|14||
-|Monday 10 Dec., 2018, 5:00 PM - 6:50 PM|10|**Comprehensive Final Exam**|NA|||
+|Monday 10 Dec., 2018, 5:00 PM - 6:50 PM|12|**Comprehensive Final Exam**|NA|||
 
 ### Lab
 
