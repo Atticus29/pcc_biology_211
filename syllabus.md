@@ -220,3 +220,5 @@ A student may receive an I for a course if they miss an essential part of the cl
 ### Tips for success in the course
 
 Ask questions and respect your classmates' rights to ask questions. Asking questions is a hallmark of good science!  Every student should feel comfortable asking questions. Don't give up if you feel you don't know what to ask. Learning how to communicate effectively should be one of your goals in a science class.   Everyone gets "stuck" at one time or another. Effectively asking questions to help settle your confusion is a very useful and achievable skill. It also happens to be a trait of a good scientist!
+
+TODO add the others
