@@ -151,7 +151,7 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 |19 Nov., 2018|9|**Thanksgiving no labs**||||
 |26 Nov., 2018|10|Photosynthesis 6.1-6.4|6.1-6.4|Quiz 8|Scientific paper|
 |3 Dec., 2018|11|Mitosis and Meiosis (7.1-7.4) and Genetics Problems (TODO handout)|7.1-7.4, TODO Genetics textbook chapter|Quiz 9|Genetics problems due date will be announced|
-|10 Dec., 2018|**Lab does not meet during finals week**||||||
+|10 Dec., 2018||**Lab does not meet during finals week**|||||
 
 ---
 
