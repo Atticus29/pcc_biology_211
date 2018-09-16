@@ -195,15 +195,17 @@ If you wish to dispute a grade, we will consider your request up to one full wee
 **Students must pass BI 211 with a C or above to be admitted into courses for which BI 211 is a prerequisite**.Please be sure to speak with your instructor and an advisor if you are planning to transfer BI 211 credits to another college or university. In most cases, Principles of Biology courses 211-213 are not equivalent across institutions. It is generally best to take all three at the same place to avoid missing critical knowledge that you will need in your 300 level coursework.
 
 ### Academic Courtesy
-Students must demonstrate respect for fellow students during the class period. Please keep in mind that your classmates may have beliefs and opinions that differ from your own. I expect you to show courtesy toward everyone.
+Please demonstrate respect for fellow students during the class period. Please keep in mind that your classmates may have beliefs and opinions that differ from your own. I expect you to show courtesy towards everyone.
 
-Refrain from talking and other distracting behavior.
+Refrain from talking and other distracting behavior during lecture.
 
 Please come to class on time. If you do come to class late, please try to be as unobtrusive as possible. If you must leave early, sit near the exit and try to wait for a break to leave. Leaving in the middle of lecture can be very disruptive.
 
 Please feel free to have food and drink in the classroom as long as it is not disruptive; the same is **not** true of lab, of course.
 
 Students are expected to help maintain the appearance of the classroom. Please discard all trash. This is Portland - y'all know the Leave No Trace mantra.
+
+As you might imagine, we instructors get a ton of emails containing questions that could easily be answered by looking at this document or referring to announcements made online. **As a courtesy to me, please make sure that these information sources have been checked before you email me with logistical questions**. I reserve the right to reply with, "see syllabus" or "see announcements".
 
 ### Photography, video, and audio recording
 Video and audio recording of lectures or class activities is not allowed except under approved circumstances such as for legally-required learning accommodations.  Photographing, video-, or audio-recording a classmate or instructor without their permission is considered a violation of privacy and is not allowed.  
@@ -231,6 +233,16 @@ A student may receive an I for a course if they miss an essential part of the cl
 
 ### Tips for success in the course
 
-Ask questions and respect your classmates' rights to ask questions. Asking questions is a hallmark of good science!  Every student should feel comfortable asking questions. Don't give up if you feel you don't know what to ask. Learning how to communicate effectively should be one of your goals in a science class.   Everyone gets "stuck" at one time or another. Effectively asking questions to help settle your confusion is a very useful and achievable skill. It also happens to be a trait of a good scientist!
+- Ask questions and respect your classmates' rights to ask questions. Asking questions is a hallmark of good science!  Every student should feel comfortable asking questions. Don't give up if you feel you don't know what to ask. Learning how to communicate effectively should be one of your goals in a science class.   Everyone gets "stuck" at one time or another. Effectively asking questions to help settle your confusion is a very useful and achievable skill. It also happens to be a trait of a good scientist!
 
-TODO add the others
+- Science doesn't come naturally to most people; it is a skill, not a talent. If this is your first collegiate science course, you might be surprised at the amount of **time required to be successful**. Typically for every 1 hour a student is in a classroom lecture, they should be putting in 3 hours of homework on assignments, reading, and study time. This means that you should **carve out about 9 hours a week** to devote to reading, reviewing and completing assignments outside of the time spent with me in the classroom. This can vary for each student depending on how effectively you use your time and how well you comprehend the reading, but it should give you an idea of a typical college course expectation.
+
+- Work hard during lectures. This work does not involve writing, word for word, everything that is said. Consider instead the strategy of taking sketchy notes during class, which frees up limited attention space for listening, participating, and thinking about the topics discussed. 
+
+- Following class, flesh out your notes, adding as much detail as possible. This forces a re-thinking of the discussion, putting the concepts in an order that makes sense to you.
+
+- Make a list of questions as you study your notes and read the textbook. Ask these questions during lecture or lab, or ask another student while you're studying.
+
+- Use the chapter objectives provided as a study guide. These review questions will highlight what is most important to focus on in the text. If any of my objectives for a unit go beyond those mentioned in the textbook, I will make you aware of that.
+
+- Form study groups! Study groups can help everyone, whether you are doing well or are doing poorly. Use your study group to quiz each other and offer short t    eaching demos to each other on particular topics; you never truly appreciate what you know and don't know until you have to teach it to somebody else.
