@@ -245,4 +245,6 @@ A student may receive an I for a course if they miss an essential part of the cl
 
 - Use the chapter objectives provided as a study guide. These review questions will highlight what is most important to focus on in the text. If any of my objectives for a unit go beyond those mentioned in the textbook, I will make you aware of that.
 
+- Speaking of the chapter objectives, it might not hurt to have those out during lecture, so that you can write notes directly associating material with its objective(s)
+
 - Form study groups! Study groups can help everyone, whether you are doing well or are doing poorly. Use your study group to quiz each other and offer short t    eaching demos to each other on particular topics; you never truly appreciate what you know and don't know until you have to teach it to somebody else.
