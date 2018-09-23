@@ -148,7 +148,7 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 
 |Date (Monday)|Week|Topics (M/W) Note the slash here!|Reading Due Upon Start of Lab|In Class Assignment|Graded Items Due Upon Start of Monday Lab (unless otherwise specified)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|24 Sept., 2018|1|Safety and Scientific Method Overview & Discussion/TODO Class to library with handout|Lab 1 and Appendix A|||
+|24 Sept., 2018|1|Safety and Scientific Method Overview & Experimental Design Activity/Class to library with handout|Lab 1 and Appendix A|||
 |1 Oct., 2018|2| Lactase Case Study (handouts distributed during lab time)|Scientific method terminology in lab manual; Enzyme reading in textbook|Quiz 1|Library Assignment|
 |8 Oct., 2018|3|Amylase Research Overview and Methods 1) Enzymes 4.3A will be performed in lab to learn the method and gather preliminary info., 2) Literature research ongoing, 3) Experimental planning and pilot experiments, and 4) Create final experimental design for next week|All handouts and textbook chapter on enzymes|Quiz 2|1) Lactase Expt. Design, 2) Amylase expt. due at **end** of lab. The amylase design should continue to be examined and improved as needed prior to coming to lab next week|
 |15 Oct., 2018|4|Amylase research experiment (the one you designed!) Note: Your literature reveiw may have yielded new info. to improve your design. If so, bring your improved design plan to class and consult with group and with me prior to carrying it out||Quiz 3|Literature Assignment (see handout for details)|
