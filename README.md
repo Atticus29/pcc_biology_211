@@ -146,7 +146,7 @@ Please use the following [grading spreadsheet](https://docs.google.com/spreadshe
 
 Please note that the order of the labs doesn't necessarily follow the order of their occurrence in the lab manual!
 
-|Date (Monday)|Week|Topics (M/W)|Reading Due Upon Start of Lab|In Class Assignment|Graded Items Due Upon Start of Monday Lab (unless otherwise specified)|
+|Date (Monday)|Week|Topics (M/W) Note the slash here!|Reading Due Upon Start of Lab|In Class Assignment|Graded Items Due Upon Start of Monday Lab (unless otherwise specified)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |24 Sept., 2018|1|Safety and Scientific Method Overview & Discussion/TODO Class to library with handout|Lab 1 and Appendix A|||
 |1 Oct., 2018|2| Lactase Case Study (handouts distributed during lab time)|Scientific method terminology in lab manual; Enzyme reading in textbook|Quiz 1|Library Assignment|
