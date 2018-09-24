@@ -11,7 +11,7 @@
 
 |Name|Office Location|Email|Emergency Email|
 |:---:|:---:|:---:|:---:|
-|Mark Fisher, PhD.|Bldg. 7 Rm. TODO|mark.fisher3@pcc.edu|mark.aaron.fisher@gmail.com|
+|Mark Fisher, PhD.|Bldg. 7 Rm. 202-13|mark.fisher3@pcc.edu|mark.aaron.fisher@gmail.com|
 
 Admin. Asst.: Susan Lipski, (971)722-7257 susan.lipski@pcc.edu
 
@@ -70,7 +70,7 @@ BI 211 is a five credit hour course which meets seven hours per week for the qua
 |:---:|:---:|:---:|:---:|
 |Lecture|Bldg. 7 Rm. 109|MW|5:00 PM-6:50 PM|
 |Lab|Bldg. 7 Rm. 125|MW|7:00 PM-9:50 PM|
-|Office Hours|Bldg. 7 Rm. TODO|By appointment|By appointment	|
+|Office Hours|Bldg. 7 Rm. 202-13|By appointment|By appointment	|
 ---
 
 ## Grade Breakdown
@@ -97,7 +97,7 @@ BI 211 is a five credit hour course which meets seven hours per week for the qua
 |In-class assignments, homework, online assignments on Pearson, participation (IHOP)|In order to promote active learning and to practice applying what you’re learning, there will be homework and in-class assignments throughout the term. Some of these will be small group discussion-based critical thinking assignments. You must be in class to participate and receive credit for these in-class assignments. In-class assignments cannot be made up. Weekly online "chapter quizzes" will also be assigned via the Pearson Mastering Biology online companion. You will have as many attempts as you'd like, and your score will be an average of them. Late submission of this online homework will follow the policy described in the “Late Assignments” section.|300 pts.|
 |Lab participation 10 @ 6 pts. each|See additional details below|60 pts.|
 |Lab quizzes 9 @ 10 pts. each|See additional details below|90 pts.|
-|Scientific Research Project: Literature|See description on D2L TODO link?|10 pts.|
+|Scientific Research Project: Literature|See description on D2L|10 pts.|
 |Scientific Research Project: Introduction|See description on D2L|10 pts.|
 |Scientific Research Project: First Draft|See description on D2L|10 pts.|
 |Scientific Research Project: Peer Reviews 2 @ 10 pts. each|See description on D2L|20 pts.|
@@ -117,7 +117,7 @@ BI 211 is a five credit hour course which meets seven hours per week for the qua
 - *Scientific Research project* (a.k.a, “The Amylase Project”)
     - Assignments include researching scientific literature and designing and conducting an experiment in the laboratory. It will culminate with the writing, peer review, and submission of the “Amylase Scientific Paper”. These assignments are discussed in separate handouts and during class time, although you should be able to see their contributions to your final grade in the Table of Graded Materials above. Look for these on D2L and ask questions as needed to ensure that you understand the requirements.
 - *Lab quizzes*
-    - Will cover the previous lab activities and will **also include questions that refer to the current lab activities**. The best way to earn quiz points is to make sure that you are able to discuss and explain the lab activity’s goals, background, methods used, and results before you leave each lab session.  Please work cooperatively with your group to answer the lab manual study questions at the end of each unit to ensure you understood everything in that unit. The lab manual answers will not be submitted and graded. Instead, the quiz will be used to assess how much you learned; these are done alone. Also, **read and study each lab activity before you do it**. Use your textbook as a resource if you need additional information to support your study of the lab concepts. You will have the first 10-15 minutes of lab time to complete the quiz. If you are late, you will only have the time remaining to complete it, and if you are more than ten minutes late, you cannot take the quiz. There will be no make-up lab quizzes except as part of a complete makeup lab attendance as described in the Attendance section.
+    - There will be a quiz each Monday at the beginning of lab. Quizzes will cover the previous lab activities and will **also include questions that refer to the current lab activities**. The best way to earn quiz points is to make sure that you are able to discuss and explain the lab activity’s goals, background, methods used, and results before you leave each lab session.  Please work cooperatively with your group to answer the lab manual study questions at the end of each unit to ensure you understood everything in that unit. The lab manual answers will not be submitted and graded. Instead, the quiz will be used to assess how much you learned; these are done alone. Also, **read and study each lab activity before you do it**. Use your textbook as a resource if you need additional information to support your study of the lab concepts. You will have the first 10-15 minutes of lab time to complete the quiz. If you are late, you will only have the time remaining to complete it, and if you are more than ten minutes late, you cannot take the quiz. There will be no make-up lab quizzes except as part of a complete makeup lab attendance as described in the Attendance section.
 
 ### Grade template
 Please use the following [grading spreadsheet](https://docs.google.com/spreadsheets/d/1gmV7qEaz7CLax06-Hwui_gBZeqdD4M_AopdK5VUl4K8/edit?usp=sharing) to answer all of your, "what do I need to get a ___?" questions. The formulas are in place to calculate your final grade by simply entering your scores on various assignments.
@@ -137,7 +137,7 @@ Please use the following [grading spreadsheet](https://docs.google.com/spreadshe
 |29 Oct, 2018|6|**EXAM 2 (Monday)**/Chapter 9: Cellular Respiration|9||
 |5 Nov., 2018|7|Chapter 9: Cellular Respiration (cont.)/Chapter 10: Photosynthesis|9,10||
 |12 Nov., 2018|8|Chapter 11: Cell Communication/Chapter 11: Cell Communication (cont.)|11||
-|19 Nov., 2018|9|**Exam 3 Monday**/TODO Wednesday **no physical class (content to catch us up delivered via YouTube)**|||
+|19 Nov., 2018|9|**Exam 3 Monday**/Wednesday **no physical class (if warrented, content to catch us up delivered via YouTube)**|||
 |26 Nov., 2018|10|Chapter 12: The cell cycle/Chapter 13: Meiosis|12,13||
 |3 Dec., 2018|11|Chapter 14: Mendel and the gene idea/Chapter 14: Mendel and the gene idea (cont.)|14||
 |Monday 10 Dec., 2018, 5:00 PM - 6:50 PM|12|**Comprehensive Final Exam**|NA|||
@@ -156,7 +156,7 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 |29 Oct, 2018|6|Microscopes (cont.) with 2.5 plus supplemental items to view/Amylase research follow up (come prepared to ask questions/work on graphs, etc.)|2.5|Quiz 5||
 |5 Nov., 2018|7|Diffusion/Osmosis|3.1-3.3|Quiz 6|Two copies of research paper draft. Use only code name on upper right hand and attach blank rubric to each copy.|
 |12 Nov., 2018|8|Respiration 5.1|5 Intro and 5.1|Quiz 7|Peer edits. Be sure to write, "edited by" and your code name on the upper right hand corner|
-|19 Nov., 2018|9|TODO **Thanksgiving! No labs** (Work on your paper)||||
+|19 Nov., 2018|9| **Thanksgiving! No labs** (Work on your paper)||||
 |26 Nov., 2018|10|Photosynthesis 6.1-6.4|6.1-6.4|Quiz 8|Scientific paper (due Wednesday, not Monday)|
 |3 Dec., 2018|11|Mitosis and Meiosis (7.1-7.4) and Genetics Problems (handout)|7.1-7.4, Genetics textbook chapter as needed to prepare|Quiz 9|Genetics problems (due date and logistics will be announced)|
 |10 Dec., 2018|12|**Lab does not meet during finals week**|||||
@@ -171,7 +171,7 @@ Please note that the order of the labs doesn't necessarily follow the order of t
     - For BI 211, a key ingredient to your success will be attendance. It is your responsibility to arrive at lecture on time and prepared to learn. There will occasionally be very low-stakes assignments that are completed in class. You answers to Socrative questions during class will be tracked (although there will be no penalty for incorrect responses) and will contribute to your IHOP score. You must be in class to complete these assignments and to receive credit for them. There will be no makeup assignments – no exceptions. With that said, you are an adult, and if you feel confident in your ability to teach yourself the lecture material, it is still technically possible to be quite successful in the class without attending lecture (although I wouldn't recommend it).
 
 - Lab
-    - There will be 10 lab exercises. **If you do not attend lab that week, you will receive a zero for that lab's participation and the quiz due that week (you're welcome to attempt the quiz the following week, even though you missed the content)**.     - Lab session makeup policy:  
+    - There will be 10 lab exercises. **If you do not attend both lab sessions that week, you will receive a zero for that lab's participation (3 pts. for each session) and the quiz due that week (you're welcome to attempt the quiz the following week, even though you missed the content)**.     - Lab session makeup policy:  
 	    - If you are unable to attend lab as scheduled, you may take it with another lab class that week as long as you make arrangements in advance and have a reason that is acceptable to the instructor. You must email 2 people to obtain permission as follows (include both in the same email): 1) me 2) the other Rock Creek BI 211 instructor of the lab you want to attend. Please coordinate this at least a day before you attend that lab. The other instructor is not required to let you attend their lab. Instructor names can be found on the course schedule at the PCC website. **You may do this only once per term**. You will take the quiz and participate in activities in the lab you attend. The instructor will then give your quiz to me. Try to avoid switching sections the weeks of the amylase experiment planning and experiment execution. If you do have to switch, please be sure to make arrangements with your amylase experiment partners.  
 	        - Per departmental policy, students who have more than 2 lab absences will receive an F for the class.
 
