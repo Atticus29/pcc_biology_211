@@ -69,7 +69,7 @@ BI 211 is a five credit hour course which meets seven hours per week for the qua
 |Content Type|Room|Day(s)|Time|
 |:---:|:---:|:---:|:---:|
 |Lecture|Bldg. 7 Rm. 109|MW|5:00 PM-6:50 PM|
-|Lab|Bldg. 7 Rm. 125|MW|7:00 PM-9:50 PM|
+|Lab|Bldg. 7 Rm. 125|W|7:00 PM-9:50 PM|
 |Office Hours|Bldg. 7 Rm. 202-13|By appointment|By appointment	|
 ---
 
@@ -146,17 +146,17 @@ Please use the following [grading spreadsheet](https://docs.google.com/spreadshe
 
 Please note that the order of the labs doesn't necessarily follow the order of their occurrence in the lab manual!
 
-|Date (Monday)|Week|Topics (M/W) Note the slash here!|Reading Due Upon Start of Lab|In Class Assignment|Graded Items Due Upon Start of Monday Lab (unless otherwise specified)|
+|Date (Monday)|Week|Topics (Wed) |Reading Due Upon Start of Lab|In Class Assignment|Graded Items Due Upon Start of Monday Lab (unless otherwise specified)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|24 Sept., 2018|1|Safety and Scientific Method Overview & Experimental Design Activity/Class to library with handout|Lab 1 and Appendix A|||
+|24 Sept., 2018|1|Safety and Scientific Method Overview; Class to library with handout|Lab 1 and Appendix A|||
 |1 Oct., 2018|2| Lactase Case Study (handouts distributed during lab time)|Scientific method terminology in lab manual; Enzyme reading in textbook|Quiz 1|Library Assignment|
 |8 Oct., 2018|3|Amylase Research Overview and Methods 1) Enzymes 4.3A will be performed in lab to learn the method and gather preliminary info., 2) Literature research ongoing, 3) Experimental planning and pilot experiments, and 4) Create final experimental design for next week|All handouts and textbook chapter on enzymes|Quiz 2|1) Lactase Expt. Design, 2) Amylase expt. due at **end** of lab. The amylase design should continue to be examined and improved as needed prior to coming to lab next week|
 |15 Oct., 2018|4|Amylase research experiment (the one you designed!) Note: Your literature reveiw may have yielded new info. to improve your design. If so, bring your improved design plan to class and consult with group and with me prior to carrying it out||Quiz 3|Literature Assignment (see handout for details)|
 |22 Oct., 2018|5|Microscopes|2.1-2.3|Quiz 4|Amylase paper introduction|
-|29 Oct, 2018|6|Microscopes (cont.) with 2.5 plus supplemental items to view/Amylase research follow up (come prepared to ask questions/work on graphs, etc.)|2.5|Quiz 5||
+|29 Oct, 2018|6|Microscopes (cont.) with 2.5 plus supplemental items to view; Amylase research follow up (come prepared to ask questions/work on graphs, etc.)|2.5|Quiz 5||
 |5 Nov., 2018|7|Diffusion/Osmosis|3.1-3.3|Quiz 6|Two copies of research paper draft. Use only code name on upper right hand and attach blank rubric to each copy.|
 |12 Nov., 2018|8|Respiration 5.1|5 Intro and 5.1|Quiz 7|Peer edits. Be sure to write, "edited by" and your code name on the upper right hand corner|
-|19 Nov., 2018|9| **Thanksgiving! No labs** (Work on your paper)||||
+|19 Nov., 2018|9| **Thanksgiving! No lab** (Work on your paper)||||
 |26 Nov., 2018|10|Photosynthesis 6.1-6.4|6.1-6.4|Quiz 8|Scientific paper (due Wednesday, not Monday)|
 |3 Dec., 2018|11|Mitosis and Meiosis (7.1-7.4) and Genetics Problems (handout)|7.1-7.4, Genetics textbook chapter as needed to prepare|Quiz 9|Genetics problems (due date and logistics will be announced)|
 |10 Dec., 2018|12|**Lab does not meet during finals week**|||||
@@ -171,7 +171,7 @@ Please note that the order of the labs doesn't necessarily follow the order of t
     - For BI 211, a key ingredient to your success will be attendance. It is your responsibility to arrive at lecture on time and prepared to learn. There will occasionally be very low-stakes assignments that are completed in class. You answers to Socrative questions during class will be tracked (although there will be no penalty for incorrect responses) and will contribute to your IHOP score. You must be in class to complete these assignments and to receive credit for them. There will be no makeup assignments – no exceptions. With that said, you are an adult, and if you feel confident in your ability to teach yourself the lecture material, it is still technically possible to be quite successful in the class without attending lecture (although I wouldn't recommend it).
 
 - Lab
-    - There will be 10 lab exercises. **If you do not attend both lab sessions that week, you will receive a zero for that lab's participation (3 pts. for each session) and the quiz due that week (you're welcome to attempt the quiz the following week, even though you missed the content)**.     - Lab session makeup policy:  
+    - There will be 10 lab exercises. **If you do not attend lab session that week, you will receive a zero for that lab's participation (6 pts.) and the quiz due that week (you're welcome to attempt the quiz the following week, even though you missed the content)**.     - Lab session makeup policy:  
 	    - If you are unable to attend lab as scheduled, you may take it with another lab class that week as long as you make arrangements in advance and have a reason that is acceptable to the instructor. You must email 2 people to obtain permission as follows (include both in the same email): 1) me 2) the other Rock Creek BI 211 instructor of the lab you want to attend. Please coordinate this at least a day before you attend that lab. The other instructor is not required to let you attend their lab. Instructor names can be found on the course schedule at the PCC website. **You may do this only once per term**. You will take the quiz and participate in activities in the lab you attend. The instructor will then give your quiz to me. Try to avoid switching sections the weeks of the amylase experiment planning and experiment execution. If you do have to switch, please be sure to make arrangements with your amylase experiment partners.  
 	        - Per departmental policy, students who have more than 2 lab absences will receive an F for the class.
 
@@ -233,7 +233,7 @@ A student may receive an I for a course if they miss an essential part of the cl
 
 ### Tips for success in the course
 
-- Ask questions and respect your classmates' rights to ask questions. Asking questions is a hallmark of good science!  Every student should feel comfortable asking questions. Don't give up if you feel you don't know what to ask. Learning how to communicate effectively should be one of your goals in a science class.   Everyone gets "stuck" at one time or another. Effectively asking questions to help settle your confusion is a very useful and achievable skill. It also happens to be a trait of a good scientist!
+- Ask questions and respect your classmates' rights to ask questions. Asking questions is a hallmark of good science! Every student should feel comfortable asking questions. Don't give up if you feel you don't know what to ask. Learning how to communicate effectively should be one of your goals in a science class.   Everyone gets "stuck" at one time or another. Effectively asking questions to help settle your confusion is a very useful and achievable skill. It also happens to be a trait of a good scientist!
 
 - Science doesn't come naturally to most people; it is a skill, not a talent. If this is your first collegiate science course, you might be surprised at the amount of **time required to be successful**. Typically for every 1 hour a student is in a classroom lecture, they should be putting in 3 hours of homework on assignments, reading, and study time. This means that you should **carve out about 9 hours a week** to devote to reading, reviewing and completing assignments outside of the time spent with me in the classroom. This can vary for each student depending on how effectively you use your time and how well you comprehend the reading, but it should give you an idea of a typical college course expectation.
 
