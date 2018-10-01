@@ -157,7 +157,7 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 |5 Nov., 2018|7|Diffusion/Osmosis|3.1-3.3|Quiz 6|Two copies of research paper draft. Use only code name on upper right hand and attach blank rubric to each copy.|
 |12 Nov., 2018|8|Respiration 5.1|5 Intro and 5.1|Quiz 7|Peer edits. Be sure to write, "edited by" and your code name on the upper right hand corner|
 |19 Nov., 2018|9| **Thanksgiving! No lab** (Work on your paper)||||
-|26 Nov., 2018|10|Photosynthesis 6.1-6.4|6.1-6.4|Quiz 8|Scientific paper (due Wednesday, not Monday)|
+|26 Nov., 2018|10|Photosynthesis 6.1-6.4|6.1-6.4|Quiz 8|Scientific paper due|
 |3 Dec., 2018|11|Mitosis and Meiosis (7.1-7.4) and Genetics Problems (handout)|7.1-7.4, Genetics textbook chapter as needed to prepare|Quiz 9|Genetics problems (due date and logistics will be announced)|
 |10 Dec., 2018|12|**Lab does not meet during finals week**|||||
 
