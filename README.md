@@ -89,20 +89,20 @@ BI 211 is a five credit hour course which meets seven hours per week for the qua
 
 ### Table of Graded Materials
 
-|Graded Component|Description|Total Points|
-|:---:|:---:|:---:|
-|Exams|Exams will be based upon the guided learning that is expected to take place during the lectures, with support of this learning taking place though a variety of other means, including textbook reading, class activities, homework, laboratory exercises, supplementary reading, MasteringBiology online assignments and activities, and more. There will be 3 regular exams. Your lowest score of these 3 exams will be dropped. Because I drop your lowest exam score, no early or make up exams will be given. There are **no exceptions**. More details below. 2 @ 150 pts. each|300 pts.|
-|Final Exam|The final exam will have the same format, with questions that ask you to use, remember, and consider all course material, with about 50% emphasis on the final two weeks of the term. You must take the final exam to pass the class. **You may not drop your final exam score**. Makeup exams for the final exam will be given only under very extenuating circumstances and only upon prompt notification of the instructor. It is likely that a makeup final exam will not be same exam taken by the rest of the class. It may be in long-answer or essay format, to be determined at the discretion of the instructor. It is not to your advantage to take a makeup final exam for trivial reasons, but if you are genuinely too ill to take the exam at the scheduled time, let me know as soon as possible. Keep in mind that grades are due soon after the final exam date, so time will be limited.|200 pts.|
-|Biology Study Skills|These assignments are designed to help you learn methods to help you succeed in this class and in future classes. Please see [here](https://docs.google.com/document/d/1i1d9N6OxcFaSIhcMX2pY9y0dqOKbdLDBZ-U2L0c-PnM/edit?usp=sharing) for more information |50 pts.|
-|In-class assignments, homework, online assignments on Pearson, participation (IHOP)|In order to promote active learning and to practice applying what you’re learning, there will be homework and in-class assignments throughout the term. Some of these will be small group discussion-based critical thinking assignments. You must be in class to participate and receive credit for these in-class assignments. In-class assignments cannot be made up. Weekly online "chapter quizzes" will also be assigned via the Pearson Mastering Biology online companion. You will have six attempts, and your score will be an average of them. Late submission of this online homework will follow the policy described in the “Late Assignments” section.|300 pts.|
-|Lab participation 10 @ 6 pts. each|See additional details below|60 pts.|
-|Lab quizzes 9 @ 10 pts. each|See additional details below|90 pts.|
-|Scientific Research Project: Literature|See description on D2L|10 pts.|
-|Scientific Research Project: Introduction|See description on D2L|10 pts.|
-|Scientific Research Project: First Draft|See description on D2L|10 pts.|
-|Scientific Research Project: Peer Reviews 2 @ 10 pts. each|See description on D2L|20 pts.|
-|Scientific Research Project: final paper|See description on D2L|100 pts.|
-|**Total Points**|---|**1150 pts.**|
+|Graded Component|Description|Total Points|Where to Find the Item|
+|:---:|:---:|:---:|:---:|
+|Exams|Exams will be based upon the guided learning that is expected to take place during the lectures, with support of this learning taking place though a variety of other means, including textbook reading, class activities, homework, laboratory exercises, supplementary reading, MasteringBiology online assignments and activities, and more. There will be 3 regular exams. Your lowest score of these 3 exams will be dropped. Because I drop your lowest exam score, no early or make up exams will be given. There are **no exceptions**. More details below. 2 @ 150 pts. each|300 pts.|In class|
+|Final Exam|The final exam will have the same format, with questions that ask you to use, remember, and consider all course material, with about 50% emphasis on the final two weeks of the term. You must take the final exam to pass the class. **You may not drop your final exam score**. Makeup exams for the final exam will be given only under very extenuating circumstances and only upon prompt notification of the instructor. It is likely that a makeup final exam will not be same exam taken by the rest of the class. It may be in long-answer or essay format, to be determined at the discretion of the instructor. It is not to your advantage to take a makeup final exam for trivial reasons, but if you are genuinely too ill to take the exam at the scheduled time, let me know as soon as possible. Keep in mind that grades are due soon after the final exam date, so time will be limited.|200 pts.|In class|
+|Biology Study Skills|These assignments are designed to help you learn methods to help you succeed in this class and in future classes. Please see [here](https://docs.google.com/document/d/1i1d9N6OxcFaSIhcMX2pY9y0dqOKbdLDBZ-U2L0c-PnM/edit?usp=sharing) for more information |50 pts.|D2L|
+|In-class assignments, homework, online assignments on Pearson, participation (IHOP)|In order to promote active learning and to practice applying what you’re learning, there will be homework and in-class assignments throughout the term. Some of these will be small group discussion-based critical thinking assignments. You must be in class to participate and receive credit for these in-class assignments. In-class assignments cannot be made up. Weekly online "chapter quizzes" will also be assigned via the Pearson Mastering Biology online companion. You will have six attempts, and your score will be an average of them. Late submission of this online homework will follow the policy described in the “Late Assignments” section.|200 pts.|In class for Socrative and hand-written acitvities, on MasteringBiology for online Pearson assignments|
+|Lab participation 10 @ 6 pts. each|See additional details below|60 pts.|In lab, often with a submitted component on D2L|
+|Lab quizzes 9 @ 10 pts. each|See additional details below|90 pts.|In lab, as paper or preferably submitted as Google Form|
+|Scientific Research Project: Literature|See description on D2L|10 pts.|Submitted component on D2L|
+|Scientific Research Project: Introduction|See description on D2L|10 pts.|Submitted component on D2L|
+|Scientific Research Project: First Draft|See description on D2L|10 pts.|Submitted component on D2L|
+|Scientific Research Project: Peer Reviews 2 @ 10 pts. each|See description on D2L|20 pts.|In lab on paper|
+|Scientific Research Project: final paper|See description on D2L|100 pts.|Submitted component on D2L|
+|**Total Points**|---|**1050 pts.**|
 
 ### Additional details about graded materials
 - *Exams*
