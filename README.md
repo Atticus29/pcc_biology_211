@@ -136,8 +136,8 @@ Please use the following [grading spreadsheet](https://docs.google.com/spreadshe
 |22 Oct., 2018|5|Chapter 6 (cont.), Chapter 7: Membranes/Chapter 7 (cont.), Chapter 8: Intro. to Metabolism|7,8||
 |29 Oct, 2018|6|**EXAM 2 (Monday)** exams won't cover chapter sections not reached by exam time/Chapter 8 (cont.), Chapter 9: Cellular Respiration|9||
 |5 Nov., 2018|7|Chapter 9: Cellular Respiration (cont.)/Chapter 10: Photosynthesis|9,10||
-|12 Nov., 2018|8|Chapter 10 (cont.), Chapter 11: Cell Communication/Chapter 11: Cell Communication (cont.)|11||
-|19 Nov., 2018|9|**Exam 3 Monday** exams won't cover chapter sections not reached by exam time/Wednesday **no physical class (if warrented, content to catch us up delivered via YouTube)**|||
+|12 Nov., 2018|8|**No lecture on Monday (holiday)**/ Chapter 10 (cont.) Chapter 11: Cell Communication|11||
+|19 Nov., 2018|9|**Exam 3 Monday** exams won't cover chapter sections not reached by exam time/Wednesday **no physical class (if warranted, content to catch us up delivered via YouTube)**|||
 |26 Nov., 2018|10|Chapter 12: The cell cycle/Chapter 12 (cont.), Chapter 13: Meiosis|12,13||
 |3 Dec., 2018|11|Chapter 13(cont.), Chapter 14: Mendel and the gene idea/Chapter 14: Mendel and the gene idea (cont.)|14||
 |Monday 10 Dec., 2018, 5:00 PM - 6:50 PM|12|**Comprehensive Final Exam**|NA|||
@@ -154,7 +154,7 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 |15 Oct., 2018|4|Amylase research experiment (the one you designed!) Note: Your literature reveiw may have yielded new info. to improve your design. If so, bring your improved design plan to class and consult with group and with me prior to carrying it out||Quiz 3|Literature Assignment (see handout for details)|
 |22 Oct., 2018|5|Microscopes|2.1-2.3|Quiz 4|Amylase paper introduction|
 |29 Oct, 2018|6|Microscopes (cont.) with 2.5 plus supplemental items to view; Amylase research follow up (come prepared to ask questions/work on graphs, etc.)|2.5|Quiz 5||
-|5 Nov., 2018|7|Diffusion/Osmosis|3.1-3.3|Quiz 6|Two copies of research paper draft. Use only code name on upper right hand and attach blank rubric to each copy.|
+|5 Nov., 2018|7|Diffusion/Osmosis|3.1-3.3|Quiz 6|Two physical copies of research paper draft due. Use only code name on upper right hand and attach blank rubric to each copy.|
 |12 Nov., 2018|8|Respiration 5.1|5 Intro and 5.1|Quiz 7|Peer edits. Be sure to write, "edited by" and your code name on the upper right hand corner|
 |19 Nov., 2018|9| **Thanksgiving! No lab** (Work on your paper)||||
 |26 Nov., 2018|10|Photosynthesis 6.1-6.4|6.1-6.4|Quiz 8|Scientific paper due|
