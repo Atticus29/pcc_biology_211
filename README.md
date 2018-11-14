@@ -99,10 +99,9 @@ BI 211 is a five credit hour course which meets seven hours per week for the qua
 |Lab quizzes 9 @ 10 pts. each, lowest dropped|See additional details below|80 pts.|In lab, as paper or preferably submitted as Google Form|
 |Scientific Research Project: Literature|See description on D2L|10 pts.|Submitted component on D2L|
 |Scientific Research Project: Introduction|See description on D2L|10 pts.|Submitted component on D2L|
-|Scientific Research Project: First Draft|See description on D2L|10 pts.|Submitted component on D2L|
 |Scientific Research Project: Peer Reviews 2 @ 10 pts. each|See description on D2L|20 pts.|In lab on paper|
 |Scientific Research Project: final paper|See description on D2L|100 pts.|Submitted component on D2L|
-|**Total Points**|---|**1040 pts.**|
+|**Total Points**|---|**1030 pts.**|
 
 ### Additional details about graded materials
 - *Exams*
