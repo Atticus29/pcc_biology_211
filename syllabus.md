@@ -138,7 +138,7 @@ Please use the following [grading spreadsheet](https://docs.google.com/spreadshe
 |12 Nov., 2018|8|**No lecture on Monday (holiday)**/ Chapter 10 (cont.) |10,11||
 |19 Nov., 2018|9|**Exam 3 Monday** exams won't cover chapter sections not reached by exam time/Wednesday **no class**|11||
 |26 Nov., 2018|10|Chapter 11: Cell Communication/Chapter 11 (cont.), Chapter 13: Meiosis (Chapter 12: The cell cycle delivered via youTube)|12,13||
-|3 Dec., 2018|11|Chapter 13(cont.), Chapter 14: Mendel and the gene idea/Chapter 14: Mendel and the gene idea (cont.)|14||
+|3 Dec., 2018|11|Chapter 13(cont.), Chapter 14: Mendel and the gene idea/Chapter 14: Mendel and the gene idea (cont., any remaining content to be posted as YouTube videos)|14||
 |Monday 10 Dec., 2018, 5:00 PM - 6:50 PM|12|**Comprehensive Final Exam**|NA|||
 
 ### Lab
