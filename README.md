@@ -1,8 +1,8 @@
 # BI211: Principles of Biology
 
-## CRN 40075
+## CRN 13054
 
-# Syllabus: Fall Quarter 2018
+# Syllabus: Winter Quarter 2020
 
 ## Portland Community College
  ---
@@ -68,8 +68,8 @@ BI 211 is a five credit hour course which meets seven hours per week for the qua
 
 |Content Type|Room|Day(s)|Time|
 |:---:|:---:|:---:|:---:|
-|Lecture|Bldg. 7 Rm. 109|MW|5:00 PM-6:50 PM|
-|Lab|Bldg. 7 Rm. 125|W|7:00 PM-9:50 PM|
+|Lecture|Bldg. 7 Rm. 116|MW|12:00 PM-1:50 PM|
+|Lab|Bldg. 7 Rm. 125|W|2:30 PM-5:20 PM|
 |Office Hours|Bldg. 7 Rm. 202-13|By appointment|By appointment	|
 ---
 
