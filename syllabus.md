@@ -69,7 +69,7 @@ BI 211 is a five credit hour course which meets seven hours per week for the qua
 |Content Type|Room|Day(s)|Time|
 |:---:|:---:|:---:|:---:|
 |Lecture|Bldg. 7 Rm. 116|MW|12:00 PM-1:50 PM|
-|Lab|Bldg. 7 Rm. 125|W|2:30 PM-5:20 PM|
+|Lab|Bldg. 7 Rm. 125|M|2:30 PM-5:20 PM|
 |Office Hours|Bldg. 7 Rm. 202-13|By appointment|By appointment	|
 ---
 
@@ -147,17 +147,17 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 
 |Date (Monday)|Week|Topics (Wed) |Reading Due Upon Start of Lab|In Class Assignment|Graded Items Due Upon Start of Wednesday Lab (unless otherwise specified)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|Wednesday, January 8, 2020|1|Safety and Scientific Method Overview; Class to library with handout|Lab 1 and Appendix A|||
-|Wednesday, January 15, 2020|2| Lactase Case Study (handouts distributed during lab time)|Scientific method terminology in lab manual; Enzyme reading in textbook|Quiz 1|Library Assignment|
-|Wednesday, January 22, 2020|3|Amylase Research Overview and Methods 1) Enzymes 4.3A will be performed in lab to learn the method and gather preliminary info., 2) Literature research ongoing, 3) Experimental planning and pilot experiments, and 4) Create final experimental design for next week|All handouts and textbook chapter on enzymes|Quiz 2|1) Lactase Expt. Design, 2) Amylase expt. due at **end** of lab. The amylase design should continue to be examined and improved as needed prior to coming to lab next week|
-|Wednesday, January 29, 2020|4|Amylase research experiment (the one you designed!) Note: Your literature reveiw may have yielded new info. to improve your design. If so, bring your improved design plan to class and consult with group and with me prior to carrying it out||Quiz 3|Literature Assignment (see handout for details)|
-|Wednesday, February 5, 2020|5|Microscopes|2.1-2.3|Quiz 4|Amylase paper introduction|
-|Wednesday, February 12, 2020|6|Microscopes (cont.) with 2.5 plus supplemental items to view; Amylase research follow up (come prepared to ask questions/work on graphs, etc.)|2.5|Quiz 5||
-|Wednesday, February 19, 2020|7|Diffusion/Osmosis|3.1-3.3|Quiz 6|Two physical copies of research paper draft due. Use only code name on upper right hand and attach blank rubric to each copy.|
-|Wednesday, February 26, 2020|8|Respiration 5.1|5 Intro and 5.1|Quiz 7|Peer edits. Be sure to write, "edited by" and your code name on the upper right hand corner|
-|Wednesday, March 4, 2020|9| **Thanksgiving! No lab** (Work on your paper)||||
-|Wednesday, March 11, 2020|10|Photosynthesis 6.1-6.4|6.1-6.4|Quiz 8|Scientific paper due|
-|Wednesday, March 18, 2020|11|Mitosis and Meiosis (7.1-7.4) and Genetics Problems (online worksheet)|7.1-7.4, Genetics textbook chapter as needed to prepare|Quiz 9|Genetics problems due at latest by beginning of final exam|
+|Monday, January 6, 2020|1|Safety and Scientific Method Overview; Class to library with handout|Lab 1 and Appendix A|||
+|Monday, January 13, 2020|2| Lactase Case Study (handouts distributed during lab time)|Scientific method terminology in lab manual; Enzyme reading in textbook|Quiz 1|Library Assignment|
+|Monday, January 20, 2020|3|Amylase Research Overview and Methods 1) Enzymes 4.3A will be performed in lab to learn the method and gather preliminary info., 2) Literature research ongoing, 3) Experimental planning and pilot experiments, and 4) Create final experimental design for next week|All handouts and textbook chapter on enzymes|Quiz 2|1) Lactase Expt. Design, 2) Amylase expt. due at **end** of lab. The amylase design should continue to be examined and improved as needed prior to coming to lab next week|
+|Monday, January 27, 2020|4|Amylase research experiment (the one you designed!) Note: Your literature reveiw may have yielded new info. to improve your design. If so, bring your improved design plan to class and consult with group and with me prior to carrying it out||Quiz 3|Literature Assignment (see handout for details)|
+|Monday, February 3, 2020|5|Microscopes|2.1-2.3|Quiz 4|Amylase paper introduction|
+|Monday, February 10, 2020|6|Microscopes (cont.) with 2.5 plus supplemental items to view; Amylase research follow up (come prepared to ask questions/work on graphs, etc.)|2.5|Quiz 5||
+|Monday, February 17, 2020|7|Diffusion/Osmosis|3.1-3.3|Quiz 6|Two physical copies of research paper draft due. Use only code name on upper right hand and attach blank rubric to each copy.|
+|Monday, February 24, 2020|8|Respiration 5.1|5 Intro and 5.1|Quiz 7|Peer edits. Be sure to write, "edited by" and your code name on the upper right hand corner|
+|Monday, March 2, 2020|9| **Thanksgiving! No lab** (Work on your paper)||||
+|Monday, March 9, 2020|10|Photosynthesis 6.1-6.4|6.1-6.4|Quiz 8|Scientific paper due|
+|Monday, March 16, 2020|11|Mitosis and Meiosis (7.1-7.4) and Genetics Problems (online worksheet)|7.1-7.4, Genetics textbook chapter as needed to prepare|Quiz 9|Genetics problems due at latest by beginning of final exam|
 |10 Dec., 2018|12|**Lab does not meet during finals week**|||||
 
 ---
