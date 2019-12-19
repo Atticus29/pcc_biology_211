@@ -128,18 +128,18 @@ Please use the following [grading spreadsheet](https://docs.google.com/spreadshe
 
 |Date (Monday)|Week|Topics (M/W)|Text Chapter(s)|Graded items due|
 |:---:|:---:|:---:|:---:|:---:|
-|24 Sept., 2018|1|Course Overview, Chapter 1: Exploring Life/Chapter 2: Chemical Context of Life|1,2||
-|1 Oct., 2018|2| Chapter 2 (cont.), Chapter 3: Water/ Chapter 3 (cont.), Chapter 4: Carbon|3, 4||
-|8 Oct., 2018|3|Chapter 4 (cont.), Chapter 5: Macromolecules/**Exam 1 Wednesday** exams won't cover chapter sections not reached by exam time|5||
-|15 Oct., 2018|4|Chapter 5: Macromolecules (cont.)/Chapter 6: A tour of the cell|5,6||
-|22 Oct., 2018|5|Chapter 6 (cont.), Chapter 7: Membranes/Chapter 7 (cont.), Chapter 8: Intro. to Metabolism|7,8||
-|29 Oct, 2018|6|**EXAM 2 (Monday)** exams won't cover chapter sections not reached by exam time/Chapter 8 (cont.), Chapter 9: Cellular Respiration|9||
-|5 Nov., 2018|7|Chapter 9: Cellular Respiration (cont.)/Chapter 10: Photosynthesis|9,10||
-|12 Nov., 2018|8|**No lecture on Monday (holiday)**/ Chapter 10 (cont.) |10,11||
-|19 Nov., 2018|9|**Exam 3 Monday** exams won't cover chapter sections not reached by exam time/Wednesday **no class**|11||
-|26 Nov., 2018|10|Chapter 11: Cell Communication/Chapter 11 (cont.), Chapter 13: Meiosis (Chapter 12: The cell cycle delivered via youTube)|12,13||
-|3 Dec., 2018|11|Chapter 13(cont.), Chapter 14: Mendel and the gene idea/Chapter 14: Mendel and the gene idea (cont., any remaining content to be posted as YouTube videos)|14||
-|Monday 10 Dec., 2018, 5:00 PM - 6:50 PM|12|**Comprehensive Final Exam**|NA|||
+|Monday, January 6, 2020|1|Course Overview, Chapter 1: Exploring Life/Chapter 2: Chemical Context of Life|1,2||
+|Monday, January 13, 2020|2| Chapter 2 (cont.), Chapter 3: Water/ Chapter 3 (cont.), Chapter 4: Carbon|3, 4||
+|Monday, January 20, 2020|3|Chapter 4 (cont.), Chapter 5: Macromolecules/**Exam 1 Wednesday** exams won't cover chapter sections not reached by exam time|5||
+|Monday, January 27, 2020|4|Chapter 5: Macromolecules (cont.)/Chapter 6: A tour of the cell|5,6||
+|Monday, February 3, 2020|5|Chapter 6 (cont.), Chapter 7: Membranes/Chapter 7 (cont.), Chapter 8: Intro. to Metabolism|7,8||
+|Monday, February 10, 2020|6|**EXAM 2 (Monday)** exams won't cover chapter sections not reached by exam time/Chapter 8 (cont.), Chapter 9: Cellular Respiration|9||
+|Monday, February 17, 2020|7|Chapter 9: Cellular Respiration (cont.)/Chapter 10: Photosynthesis|9,10||
+|Monday, February 24, 2020|8|**No lecture on Monday (holiday)**/ Chapter 10 (cont.) |10,11||
+|Monday, March 2, 2020|9|**Exam 3 Monday** exams won't cover chapter sections not reached by exam time/Wednesday **no class**|11||
+|Monday, March 9, 2020|10|Chapter 11: Cell Communication/Chapter 11 (cont.), Chapter 13: Meiosis (Chapter 12: The cell cycle delivered via youTube)|12,13||
+|Monday, March 16, 2020|11|Chapter 13(cont.), Chapter 14: Mendel and the gene idea/Chapter 14: Mendel and the gene idea (cont., any remaining content to be posted as YouTube videos)|14||
+|TODO Monday 10 Dec., 2018, 5:00 PM - 6:50 PM|12|**Comprehensive Final Exam**|NA|||
 
 ### Lab
 
@@ -147,17 +147,17 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 
 |Date (Monday)|Week|Topics (Wed) |Reading Due Upon Start of Lab|In Class Assignment|Graded Items Due Upon Start of Wednesday Lab (unless otherwise specified)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|24 Sept., 2018|1|Safety and Scientific Method Overview; Class to library with handout|Lab 1 and Appendix A|||
-|1 Oct., 2018|2| Lactase Case Study (handouts distributed during lab time)|Scientific method terminology in lab manual; Enzyme reading in textbook|Quiz 1|Library Assignment|
-|8 Oct., 2018|3|Amylase Research Overview and Methods 1) Enzymes 4.3A will be performed in lab to learn the method and gather preliminary info., 2) Literature research ongoing, 3) Experimental planning and pilot experiments, and 4) Create final experimental design for next week|All handouts and textbook chapter on enzymes|Quiz 2|1) Lactase Expt. Design, 2) Amylase expt. due at **end** of lab. The amylase design should continue to be examined and improved as needed prior to coming to lab next week|
-|15 Oct., 2018|4|Amylase research experiment (the one you designed!) Note: Your literature reveiw may have yielded new info. to improve your design. If so, bring your improved design plan to class and consult with group and with me prior to carrying it out||Quiz 3|Literature Assignment (see handout for details)|
-|22 Oct., 2018|5|Microscopes|2.1-2.3|Quiz 4|Amylase paper introduction|
-|29 Oct, 2018|6|Microscopes (cont.) with 2.5 plus supplemental items to view; Amylase research follow up (come prepared to ask questions/work on graphs, etc.)|2.5|Quiz 5||
-|5 Nov., 2018|7|Diffusion/Osmosis|3.1-3.3|Quiz 6|Two physical copies of research paper draft due. Use only code name on upper right hand and attach blank rubric to each copy.|
-|12 Nov., 2018|8|Respiration 5.1|5 Intro and 5.1|Quiz 7|Peer edits. Be sure to write, "edited by" and your code name on the upper right hand corner|
-|19 Nov., 2018|9| **Thanksgiving! No lab** (Work on your paper)||||
-|26 Nov., 2018|10|Photosynthesis 6.1-6.4|6.1-6.4|Quiz 8|Scientific paper due|
-|3 Dec., 2018|11|Mitosis and Meiosis (7.1-7.4) and Genetics Problems (online worksheet)|7.1-7.4, Genetics textbook chapter as needed to prepare|Quiz 9|Genetics problems due at latest by beginning of final exam|
+|Wednesday, January 8, 2020|1|Safety and Scientific Method Overview; Class to library with handout|Lab 1 and Appendix A|||
+|Wednesday, January 15, 2020|2| Lactase Case Study (handouts distributed during lab time)|Scientific method terminology in lab manual; Enzyme reading in textbook|Quiz 1|Library Assignment|
+|Wednesday, January 22, 2020|3|Amylase Research Overview and Methods 1) Enzymes 4.3A will be performed in lab to learn the method and gather preliminary info., 2) Literature research ongoing, 3) Experimental planning and pilot experiments, and 4) Create final experimental design for next week|All handouts and textbook chapter on enzymes|Quiz 2|1) Lactase Expt. Design, 2) Amylase expt. due at **end** of lab. The amylase design should continue to be examined and improved as needed prior to coming to lab next week|
+|Wednesday, January 29, 2020|4|Amylase research experiment (the one you designed!) Note: Your literature reveiw may have yielded new info. to improve your design. If so, bring your improved design plan to class and consult with group and with me prior to carrying it out||Quiz 3|Literature Assignment (see handout for details)|
+|Wednesday, February 5, 2020|5|Microscopes|2.1-2.3|Quiz 4|Amylase paper introduction|
+|Wednesday, February 12, 2020|6|Microscopes (cont.) with 2.5 plus supplemental items to view; Amylase research follow up (come prepared to ask questions/work on graphs, etc.)|2.5|Quiz 5||
+|Wednesday, February 19, 2020|7|Diffusion/Osmosis|3.1-3.3|Quiz 6|Two physical copies of research paper draft due. Use only code name on upper right hand and attach blank rubric to each copy.|
+|Wednesday, February 26, 2020|8|Respiration 5.1|5 Intro and 5.1|Quiz 7|Peer edits. Be sure to write, "edited by" and your code name on the upper right hand corner|
+|Wednesday, March 4, 2020|9| **Thanksgiving! No lab** (Work on your paper)||||
+|Wednesday, March 11, 2020|10|Photosynthesis 6.1-6.4|6.1-6.4|Quiz 8|Scientific paper due|
+|Wednesday, March 18, 2020|11|Mitosis and Meiosis (7.1-7.4) and Genetics Problems (online worksheet)|7.1-7.4, Genetics textbook chapter as needed to prepare|Quiz 9|Genetics problems due at latest by beginning of final exam|
 |10 Dec., 2018|12|**Lab does not meet during finals week**|||||
 
 ---
