@@ -4,12 +4,15 @@
 
 In an effort to give you practice answering mutliple-choice questions related to the material on each of the three Exams preceding the final exam, but more importantly to give you practice with the arguably more useful cognitive skill of _writing_ good multiple-choice exam questions, you'll be asked to construct a practice exam as a class and then later take the practice exam individually as a low-stakes IHOP assignment. There will be one crowd-generated practice exam for each exam, and the due dates for the questions and for the actual completed practice exam are in [the schedule](https://github.com/Atticus29/pcc_biology_211/blob/master/README.md).
 
-To receive full credit for each crowd-generated practice exam, each student is asked to add one **multiple-choice** question **from each chapter** covered in the exam to the google form (on D2L). After everybody has completed this step, each student will be asked to then **take the practice exam individually**.
+To receive full credit for each crowd-generated practice exam, each student is asked to add one **multiple-choice** question **from each chapter** covered in the exam to the google form (on D2L). Questions must stem directly from the learning objectives lists for each chapter. After everybody has completed this step, each student will be asked to then **take the practice exam individually**.
 
-#### Guidelines for Writing Practice Exam Questions
+#### Guidelines/checklist for Writing Practice Exam Questions
 
 - [ ] Add your name to the questions that you write (see example question in the google form)
 - [ ] **Do not provide the answers to the questions**. I will do that as I score them.
+- [ ] Make sure your questions are mutliple-choice
+- [ ] Make sure you have one question from each chapter to be covered on the real exam
+- [ ] Make sure your questions stem directly from the learning objectives lists for each chapter
 - [ ] Students who add questions after other students are required to check existing students' questions to **avoid duplicate questions**. **Credit will not be granted to duplicate questions or re-phrased questions**. Note that this means that the earlier you submit your questions, the less work you have to do.
 - [ ] If you insert a duplicate question **before** another student's question to create the appearance that you came up with question first, **this will be considered academic dishonesty and you will at minimum receive no credit for the assignment**. Please note that google products are versioned, which means that I can track which edits occur and when, so it will be easy to detect such insertions.
 - [ ] If you need some help working with Google Forms, please don't hesitate to contact me (or better yet, ask me during lecture or lab in case it's a common question).
