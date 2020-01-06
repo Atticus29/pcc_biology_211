@@ -39,8 +39,6 @@ BI 211 is a five credit hour course which meets seven hours per week for the qua
 
 - Campbell, Neil, and Jane Reece. **Biology** 11th ed. Benjamin/Cummings Publishing, Menlo Park, CA
 
-- We will also be using the MasteringBiology companion online as a component of your IHOP grade (see below). In addition to the required/assigned content, I strongly encourage you to take advantage of the myriad additional resources available in the online companion (e.g., practice problems). [Click here](https://docs.google.com/document/d/17yVWFe9zlXYtiq2JqQyJHAt_k1bVz5uFxi8Vl-Hjqe0/edit?usp=sharing) for instructions on setting up an account. The Course ID for this course is: **MBFISHER05546**.
-
 - Morgan, Judith and Eloise Carter 2011. **Investigating Biology Laboratory Manual**, 9th ed. Benjamin/Cummings Publishing, Menlo Park, CA
 
 - Access to a computer, printer, and the internet, including D2L course pages (the course and many assignments will largely be administered via D2L). Several computer labs are available for students at all PCC campuses. (eg. library in Bldg 9, Student Learning Center, Bldg. 7, and Resources centers, 1st floor Bldg. 7).
@@ -55,6 +53,7 @@ BI 211 is a five credit hour course which meets seven hours per week for the qua
 - Jump drive or cloud storage such as Google Drive
 - Calendar or day planner.
 - Many students have found it very useful to keep a set of colored pencils or pens for various uses during lecture and lab class.
+- The MasteringBiology companion online in a great resource, but is completely optional for this course. Please let me know if you have any questions about this companion.
 
 
 
