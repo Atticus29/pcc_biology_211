@@ -53,13 +53,13 @@ BI 211 is a five credit hour course which meets seven hours per week for the qua
 - Jump drive or cloud storage such as Google Drive
 - Calendar or day planner.
 - Many students have found it very useful to keep a set of colored pencils or pens for various uses during lecture and lab class.
-- The MasteringBiology companion online in a great resource, but is completely optional for this course. Please let me know if you have any questions about this companion.
-
 
 
 ### Optional
 - *Student Study Guide* (Workbook to go with Campbell). Taylor, M. and/orWebsite access that comes with the new textbook or can be purchased separately.
 - Plan to access to other high-quality educational and library resources including those recommended in class and/or posted at D2L.- Goggles and gloves are provided in the lab, but if you prefer to use your own, please bring these.
+
+- The MasteringBiology companion online in a great resource, but is completely optional for this course. Please let me know if you have any questions about this companion.
 
 ---
 
