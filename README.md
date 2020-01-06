@@ -70,7 +70,10 @@ BI 211 is a five credit hour course which meets seven hours per week for the qua
 |:---:|:---:|:---:|:---:|
 |Lecture|Bldg. 7 Rm. 116|MW|12:00 PM-1:50 PM|
 |Lab|Bldg. 7 Rm. 125|M|2:30 PM-5:20 PM|
-|Office Hours|Bldg. 7 Rm. 202-13|By appointment|By appointment	|
+|Office Hours*|W: Bldg. 7 Rm. 202-7b, Sat: Bldg. 7 Rm. 121|W, Sat. |Wed. 10:30 AM - 11: 30 AM, Sat. 10:00 AM - 2:00 PM Rm. 121 or by appointment|
+
+*Please always notify me when you intend to come to office hours. Otherwise, I may not be there.
+
 ---
 
 ## Grade Breakdown
@@ -98,7 +101,7 @@ BI 211 is a five credit hour course which meets seven hours per week for the qua
 |Lab participation 10 @ 6 pts. each|See additional details below|60 pts.|In lab, often with a submitted component on D2L|
 |Lab quizzes 9 @ 10 pts. each, lowest dropped|See additional details below|80 pts.|In lab, on paper or preferably submitted as Google Form|
 |Lab assignments ~TODO @ 6 pts. each|See additional details on lab schedule and on D2L|~TODO pts.|In lab, often with a submitted component on D2L|
-|Scientific Research Project: Literature|See description on D2L|10 pts.|Submitted component on D2L|
+|Scientific Research Project: Literature|See description on D2L and master prompt [here](https://docs.google.com/document/d/16fYaW6A82aYqUukomCJhObGv28e19-qG0kZnADW9-OQ/edit?usp=sharing)|10 pts.|Submitted component on D2L|
 |Scientific Research Project: Introduction|See description on D2L|10 pts.|Submitted component on D2L|
 |Scientific Research Project: Peer Reviews 2 @ 10 pts. each|See description on D2L|20 pts.|In lab on paper|
 |Scientific Research Project: final paper|See description on D2L|100 pts.|Submitted component on D2L|
