@@ -33,8 +33,7 @@ Your personal submission is due the subsequent week by (**see [course schedule](
 
 ### Before
 
-- [ ] Provide template questions (~2-3) for students to model (including your name)
-- [ ] Invite students to edit document by PCC email address
+- [x] Provide template questions (~2-3) for students to model (including your name)
 
 ### After
 
