@@ -178,7 +178,7 @@ Please note that the order of the labs doesn't necessarily follow the order of t
 	    - If you are unable to attend lab as scheduled, you may take it with another lab class that week as long as you make arrangements in advance and have a reason that is acceptable to the instructor. You must email 2 people to obtain permission as follows (include both in the same email): 1) me 2) the other Rock Creek BI 211 instructor of the lab you want to attend. Please coordinate this at least a day before you attend that lab. The other instructor is not required to let you attend their lab. Instructor names can be found on the course schedule at the PCC website. **You may do this only once per term**. You will take the quiz and participate in activities in the lab you attend. The instructor will then give your quiz to me. Try to avoid switching sections the weeks of the research experiment planning and experiment execution. If you do have to switch, please be sure to make arrangements with your research experiment partners.  
     - Per departmental policy, students who have more than 2 lab absences will receive an F for the class.
 
-		- Per departmental policy, students who do not pass the lab portion of the course will receive an F for the class.
+	- Per departmental policy, students who do not pass the lab portion of the course will receive an F for the class.
 
 ### Late Assignments
 
